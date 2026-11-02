@@ -299,6 +299,146 @@
       "url": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net",
       "isAdult": false
+    },
+    {
+      "name": "360资源(备用域名)",
+      "url": "https://360zy.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "艾旦资源站",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "detail": "https://lovedan.net",
+      "isAdult": false
+    },
+    {
+      "name": "豆瓣资源站",
+      "url": "https://dbzy.tv/api.php/provide/vod/",
+      "detail": "https://dbzy.tv",
+      "isAdult": false
+    },
+    {
+      "name": "非凡",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "非凡直连",
+      "url": "http://ffzy.tv/api.php/provide/vod",
+      "detail": "http://ffzy.tv",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源站",
+      "url": "https://ffzy5.tv/api.php/provide/vod/",
+      "detail": "https://ffzy5.tv",
+      "isAdult": false
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "detail": "https://api.guangsuapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "豪华资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "detail": "https://www.huohuzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "豪华资源站",
+      "url": "https://haohuazy.com/api.php/provide/vod/",
+      "detail": "https://haohuazy.com",
+      "isAdult": false
+    },
+    {
+      "name": "紅牛資源",
+      "url": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙资源站",
+      "url": "https://huyazy.net/api.php/provide/vod/",
+      "detail": "https://huyazy.net",
+      "isAdult": false
+    },
+    {
+      "name": "吉吉资源",
+      "url": "https://caiji.jjzyapi.com/api.php/provide/vod",
+      "detail": "https://www.jjzy10.tv",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源",
+      "url": "http://jyzyapi.com/provide/vod/from/jinyingm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源",
+      "url": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源站",
+      "url": "https://jyzyapi.com/provide/vod/",
+      "detail": "https://jyzyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "巨量",
+      "url": "https://api.juliang.live/api/provide/vod",
+      "detail": "https://api.juliang.live",
+      "isAdult": false
+    },
+    {
+      "name": "量子資源",
+      "url": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "林中小屋 · 木机",
+      "url": "https://mujiziyuan00.com/api.php/provide/vod",
+      "detail": "https://mujiziyuan00.com",
+      "isAdult": false
+    },
+    {
+      "name": "茅台资源站",
+      "url": "https://mtzy5.com/api.php/provide/vod/",
+      "detail": "https://mtzy5.com",
+      "isAdult": false
+    },
+    {
+      "name": "速播资源",
+      "url": "https://subocj.com/api.php/provide/vod",
+      "detail": "https://subocj.com",
+      "isAdult": false
+    },
+    {
+      "name": "索尼采集站",
+      "url": "http://suonizy.net/api.php/provide/vod/",
+      "detail": "https://suonizy.net",
+      "isAdult": false
+    },
+    {
+      "name": "天涯影视资源站",
+      "url": "https://tyyszyapi.com/api.php/provide/vod/",
+      "detail": "https://tyyszyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "无尽资源",
+      "url": "https://api.wujinapi.com/api.php/provide/vod",
+      "detail": "https://api.wujinapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "最大资源站",
+      "url": "http://zuidazy.me/api.php/provide/vod/",
+      "detail": "http://zuidazy.me",
+      "isAdult": false
     }
   ],
   "liveSources": [
