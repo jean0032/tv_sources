@@ -195,6 +195,29 @@
       "url": "https://www.xrbsp.com/api/json.php",
       "detail": "https://www.xrbsp.com",
       "isAdult": true
+    },
+    {
+      "name": "🔞黄色仓库",
+      "url": "https://hsckzy.xyz/api.php/provide/vod",
+      "detail": "https://hsckzy.xyz",
+      "isAdult": true
+    },
+    {
+      "name": "🔞森林资源",
+      "url": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "detail": "https://slapibf.com",
+      "isAdult": true
+    },
+    {
+      "name": "🔞杏吧资源",
+      "url": "https://xingba222.com/api.php/provide/vod",
+      "detail": "https://xingba111.com",
+      "isAdult": true
+    },
+    {
+      "name": "百花资源站",
+      "url": "https://bhziyuan.com/api.php/provide/vod",
+      "isAdult": true
     }
   ],
   "liveSources": []

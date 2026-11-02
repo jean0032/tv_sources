@@ -439,6 +439,12 @@
       "url": "http://zuidazy.me/api.php/provide/vod/",
       "detail": "http://zuidazy.me",
       "isAdult": false
+    },
+    {
+      "name": "🎬闪电资源",
+      "url": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "detail": "https://shandianzy.com",
+      "isAdult": false
     }
   ],
   "liveSources": [
