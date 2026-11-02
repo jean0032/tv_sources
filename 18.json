@@ -40,7 +40,7 @@
     },
     {
       "name": "番号资源站",
-      "url": "http://fhapi9.com/api.php/provide/vod/",
+      "url": "http://fhapi9.com/api.php/provide/vod",
       "detail": "http://fhapi9.com",
       "isAdult": true
     },
