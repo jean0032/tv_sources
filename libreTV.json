@@ -445,6 +445,51 @@
       "url": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "detail": "https://shandianzy.com",
       "isAdult": false
+    },
+    {
+      "name": "🐔木机丨蓝光采集",
+      "url": "https://mujiziyuan00.com/api.php/provide/vod/?ac=list",
+      "isAdult": false
+    },
+    {
+      "name": "百度资源",
+      "url": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
+      "isAdult": false
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8/",
+      "isAdult": false
+    },
+    {
+      "name": "电影天堂资源",
+      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "isAdult": false
+    },
+    {
+      "name": "豪华资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
+      "isAdult": false
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+      "isAdult": false
+    },
+    {
+      "name": "索尼资源",
+      "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "isAdult": false
+    },
+    {
+      "name": "无尽资源",
+      "url": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/",
+      "isAdult": false
     }
   ],
   "liveSources": [
