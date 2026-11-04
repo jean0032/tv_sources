@@ -490,6 +490,174 @@
       "name": "无尽资源",
       "url": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/",
       "isAdult": false
+    },
+    {
+      "name": "3-潇洒",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
+    },
+    {
+      "name": "3-潇洒",
+      "url": "https://cdn.jsdelivr.net/gh/qist/tvbox@master/xiaosa/api.json"
+    },
+    {
+      "name": "OK杰克",
+      "url": "https://play.iptv365.org/OK/api.json"
+    },
+    {
+      "name": "yonghu.ffzyapi8.com",
+      "url": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json"
+    },
+    {
+      "name": "zuida.xyz",
+      "url": "https://zuida.xyz/api.php/provide/vod"
+    },
+    {
+      "name": "优质",
+      "url": "https://api.yyzy-tv.vip/inc/apijson.php"
+    },
+    {
+      "name": "公共·my interface",
+      "url": "http://124.223.214.31:8/api.json"
+    },
+    {
+      "name": "公共·潇洒",
+      "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
+    },
+    {
+      "name": "公共·软件",
+      "url": "http://47.96.82.41:5188/api.json"
+    },
+    {
+      "name": "创享",
+      "url": "https://ys.cxkjg.cn/api/provide/vod"
+    },
+    {
+      "name": "南风3",
+      "url": "https://play.iptv365.org/%E5%8D%97%E9%A3%8E/api.json"
+    },
+    {
+      "name": "嘿嘿",
+      "url": "https://api.heiapi.cc/api.php/provide/vod"
+    },
+    {
+      "name": "夸克┃网盘搜索",
+      "url": "https://so.yinpai.xyz/api.php"
+    },
+    {
+      "name": "小米2",
+      "url": "https://play.iptv365.org/%E5%B0%8F%E7%B1%B3/api.json"
+    },
+    {
+      "name": "影视 • 建安",
+      "url": "http://154.219.117.232:9981/jacloudapi.php/provide/vod"
+    },
+    {
+      "name": "影视 • 迅游采集",
+      "url": "https://api.xyzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "摸鱼",
+      "url": "https://play.iptv365.org/%E6%91%B8%E9%B1%BC%E5%84%BF/api.json"
+    },
+    {
+      "name": "无尽",
+      "url": "https://api.wujinapi.net/api.php/provide/vod"
+    },
+    {
+      "name": "无尽CC",
+      "url": "https://api.wujinapi.cc/api.php/provide/vod"
+    },
+    {
+      "name": "暴风资源2",
+      "url": "http://bf.xoxowin86cisyap.com/api.php/provide/vod"
+    },
+    {
+      "name": "潇洒Github备用",
+      "url": "https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
+    },
+    {
+      "name": "火速",
+      "url": "https://api.huosuapi.cc/api.php/provide/vod"
+    },
+    {
+      "name": "短剧2",
+      "url": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
+    },
+    {
+      "name": "神仙",
+      "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json"
+    },
+    {
+      "name": "线路3",
+      "url": "http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api"
+    },
+    {
+      "name": "线路4",
+      "url": "https://api.jxapi.cc/api"
+    },
+    {
+      "name": "线路5",
+      "url": "https://api.huaqi.pro/api"
+    },
+    {
+      "name": "肥猫(临时)",
+      "url": "https://play.iptv365.org/%E8%82%A5%E7%8C%AB/api.json"
+    },
+    {
+      "name": "色猫",
+      "url": "https://caiji.semaozy.net/inc/apijson_vod.php"
+    },
+    {
+      "name": "茅台",
+      "url": "https://mtzy.me/api.php/provide/vod"
+    },
+    {
+      "name": "茅台资源",
+      "url": "https://mtzy1.com/api.php/provide/vod"
+    },
+    {
+      "name": "菜妮丝2",
+      "url": "https://play.iptv365.org/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json"
+    },
+    {
+      "name": "软件哥哥",
+      "url": "http://47.96.82.41:8/api.json"
+    },
+    {
+      "name": "速播资源",
+      "url": "https://subozy.com/api.php/provide/vod"
+    },
+    {
+      "name": "量子影视",
+      "url": "https://lzizy.net/api.php/provide/vod"
+    },
+    {
+      "name": "🌪️暴风影音",
+      "url": "https://app.bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "🌸 樱花",
+      "url": "https://api.apiyhzy.com/api.php/provide/vod"
+    },
+    {
+      "name": "🎀苹果4┃影视",
+      "url": "https://19q.cc/api.php/provide/vod"
+    },
+    {
+      "name": "🐂 红牛",
+      "url": "https://hongniuzy3.com/api.php/provide/vod"
+    },
+    {
+      "name": "👖裤佬丨采集",
+      "url": "https://api.wsyzy.net/api.php/provide/vod"
+    },
+    {
+      "name": "🕹️淘片┃采集·ok线路1",
+      "url": "https://taopianapi.com/cjapi/mc/vod/json.html"
+    },
+    {
+      "name": "🥑┃量子┃资源·ok线路1",
+      "url": "https://lzizy1.com/api.php/provide/vod"
     }
   ],
   "liveSources": [
